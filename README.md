@@ -22,6 +22,8 @@ cd myproject
 python3 -m venv .venv
 '''
 Install Flask
+'''python
+print("hello")
 '''
 pip install Flask
 '''
