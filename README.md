@@ -5,7 +5,7 @@ memes. Users can browse memes.
 
 ## Features
 
-User Input: Users can input a topic for the meme to show as long as the input is a directory available on [redit](https://www.reddit.com/). 
+User Input: Users can input a topic for the meme to show as long as the input is a directory available on (https://www.reddit.com/). 
 Meme Gallery: scraped from reddit.
 Responsive Design
 
@@ -13,16 +13,15 @@ Responsive Design
 
 To run the Meme Flask App locally, follow these steps:
 
-Download Python 3.12 [here](https://www.python.org/downloads/)
+Download Python 3.12 (https://www.python.org/downloads/)
 
 Run the following commands in your terminal
-'''
 
-mkdir myproject
-cd myproject
-python3 -m venv .venv
+     mkdir myproject
+     cd myproject
+     python3 -m venv .venv
 
-'''
+
 
 Install Flask
 
