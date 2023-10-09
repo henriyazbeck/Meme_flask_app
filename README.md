@@ -17,17 +17,17 @@ Download Python 3.12 [here](https://www.python.org/downloads/)
 
 Run the following commands in your terminal
 '''
- mkdir myproject
- cd myproject
- python3 -m venv .venv
+mkdir myproject
+cd myproject
+python3 -m venv .venv
 '''
 Install Flask
 '''
- pip install Flask
+pip install Flask
 '''
 Install requests 
 '''
- pip install requests
+pip install requests
 '''
 ### Now you can run the app
 
@@ -38,7 +38,7 @@ cd C:\Users\Lenovo\Desktop\Meme_flask__app
 '''
 Then run the app.py file like this:
 '''
- python app.py
+python app.py
 '''
 ### To see the web app, go to your browser and paste the URL you received when the application runs
 There you have it, now you can put a valid reddit directory about memes and hit submit
