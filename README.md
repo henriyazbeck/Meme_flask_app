@@ -1,6 +1,6 @@
 # Meme_flask_app
 
-Meme Flask App is a simple web application built using Flask that allows users to get memes refreshed every 30s. It provides a user-friendly interface generating humorous 
+Meme Flask App is a simple web application built using Flask that allows users to get memes refreshed every 30 s. It provides a user-friendly interface generating humorous 
 memes. Users can browse memes.
 
 ## Features
@@ -16,7 +16,7 @@ To run the Meme Flask App locally, follow these steps:
 Download Python 3.12 [here](https://www.python.org/downloads/)
 
 Run the following commands in your terminal
-'''python
+'''python:
 mkdir myproject
 cd myproject
 python3 -m venv .venv
