@@ -42,4 +42,11 @@ Then run the app.py file like this:
 '''
 ### To see the web app, go to your browser and paste the URL you received when the application runs
 There you have it, now you can put a valid reddit directory about memes and hit submit
+
+P.S.: Here is a public web URL of basic HelloWorld 
+https://henri123.pythonanywhere.com/
+with these directories
+https://henri123.pythonanywhere.com/home
+https://henri123.pythonanywhere.com/user/john  and you can write anything to replace john 
+
   
