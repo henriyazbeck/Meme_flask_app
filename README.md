@@ -16,7 +16,7 @@ To run the Meme Flask App locally, follow these steps:
 Download Python 3.12 [here](https://www.python.org/downloads/)
 
 Run the following commands in your terminal
-'''python:
+'''js
 mkdir myproject
 cd myproject
 python3 -m venv .venv
