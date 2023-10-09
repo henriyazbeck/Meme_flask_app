@@ -25,7 +25,9 @@ python3 -m venv .venv
 Install Flask
 
 '''
+
 pip install Flask
+
 '''
 Install requests '''
 pip install requests
