@@ -46,7 +46,7 @@ There you have it, now you can put a valid reddit directory about memes and hit 
 P.S.: Here is a public web URL of basic HelloWorld 
 https://henri123.pythonanywhere.com/
 with these directories
-https://henri123.pythonanywhere.com/home
+https://henri123.pythonanywhere.com/home and 
 https://henri123.pythonanywhere.com/user/john  and you can write anything to replace john 
 
   
